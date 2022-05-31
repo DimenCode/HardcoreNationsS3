@@ -37,5 +37,6 @@ data = [
     "ZSXF", 4,
     "Kaialva", -4,
     "Kapiteusz", 1,
-    "rxmemberrl", 2
+    "rxmemberrl", 2,
+    "WooFuzy", 2
 ]

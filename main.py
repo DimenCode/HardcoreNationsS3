@@ -2,7 +2,7 @@ from Data import data
 
 text1 = ""
 
-def v1() :
+def v1() : #First version of the generator
     count = 0
     text1 = ""
     while (count < len(data)) :
@@ -15,7 +15,7 @@ def v1() :
             text1 = text1 + "GMT" + str(data[count]) + "\n"
         count = count + 1
 
-def v2() :
+def v2() : #Version 2 of the generator
     count = 0
     list = []
     text2 = ""
@@ -40,7 +40,7 @@ def v2() :
     print("there are " + str(len(list)) + " registered members")
     print(text)
 
-def v3() :
+def v3() : #Version 3 of the generator
     count = 0
     list = []
     text2 = ""
@@ -59,7 +59,7 @@ def v3() :
     print("there are " + str(len(list)) + " registered members")
     print(text)
 
-def v4() :
+def v4() : #Version 4 of the generator
     count = 1
     list = []
 
@@ -78,7 +78,7 @@ def v4() :
     print("there are " + str(len(list)) + " registered members")
     print(text)
 
-def v5() :
+def v5() : #Find a player's IGN
     question = input("Enter a player's IGN : ")
     count = 0
     found = False
@@ -103,4 +103,4 @@ def v5() :
 # Change to v4() for the list of timezones in lowest to highest value order.
 # Change to V4() for a Search menu by IGN.
 
-v4()
+v4() #run the latest version of the generator

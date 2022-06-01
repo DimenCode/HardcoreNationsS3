@@ -101,6 +101,6 @@ def v5() :
 # Change to v2() for the list of players with their timezones in alphabetical order.
 # Change to v3() for the list of players in alphabetical order.
 # Change to v4() for the list of timezones in lowest to highest value order.
-# Change to V4() for a Search menu by IGN.
+# Change to V5() for a Search menu by IGN.
 
 v4()

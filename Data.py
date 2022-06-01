@@ -52,5 +52,9 @@ data = [
     "tremblero", -4,
     "ParadoxFlame", -7,
     "GudBagel", 1,
-    "BloodForGambit", 2
+    "BloodForGambit", 2,
+    "youmerguez", 2,
+    "Masterak326", 5.5,
+    "SpaceGoose71", 4,
+    "Not_Marian", 2
 ]

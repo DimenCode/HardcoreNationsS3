@@ -51,4 +51,6 @@ data = [
     "_MrNarwhal", -4,
     "tremblero", -4,
     "ParadoxFlame", -7,
+    "GudBagel", 1,
+    "BloodForGambit", 2
 ]

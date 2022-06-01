@@ -38,5 +38,17 @@ data = [
     "Kaialva", -4,
     "Kapiteusz", 1,
     "rxmemberrl", 2,
-    "WooFuzy", 2
+    "WooFuzy", 2,
+    "xRamana", -4,
+    "VoidedWasTaken", 1,
+    "Iuk_", 5,
+    "TheRamenKing69", 1,
+    "ImAlex404", 2,
+    "Not_Marian", 2,
+    "LunarXN", -4,
+    "DasKleineKuken", -4,
+    "thekingofgames12", -4,
+    "_MrNarwhal", -4,
+    "tremblero", -4,
+    "ParadoxFlame", -7,
 ]

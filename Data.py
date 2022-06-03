@@ -56,5 +56,15 @@ data = [
     "youmerguez", 2,
     "Masterak326", 5.5,
     "SpaceGoose71", 4,
-    "Not_Marian", 2
+    "Not_Marian", 2,
+    "Brantonious", -4,
+    "PossessedJelly", 4,
+    "TheRoyalDiamond", -4,
+    "Porkypin", 0,
+    "jose521", -4,
+    "GreyCreeper13", -4,
+    "Senxei", -6,
+    "Cube713", 0,
+    "FlanDanTheMan", -5,
+    "iTris", 0
 ]

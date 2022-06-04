@@ -66,5 +66,8 @@ data = [
     "Senxei", -6,
     "Cube713", 0,
     "FlanDanTheMan", -5,
-    "iTris", 0
+    "iTris", 0,
+    "AgentNoodle", -7,
+    "bluefreya", -7,
+    "raysfxx", -7
 ]

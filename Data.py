@@ -69,5 +69,7 @@ data = [
     "iTris", 0,
     "AgentNoodle", -7,
     "bluefreya", -7,
-    "raysfxx", -7
+    "raysfxx", -7,
+    "Mcskye22", 12,
+    "Praisethesun", -6
 ]

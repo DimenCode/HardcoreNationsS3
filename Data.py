@@ -71,5 +71,16 @@ data = [
     "bluefreya", -7,
     "raysfxx", -7,
     "Mcskye22", 12,
-    "Praisethesun", -6
+    "Praisethesun", -6,
+    "beanz00_", 12,
+    "Thecopydino7", -4,
+    "Tersoar", 0,
+    "Cashdean", -4,
+    "KeptEagle204390", -5,
+    "Some1Random", -4,
+    "Parallax25", -4,
+    "meesecakes", 1,
+    "SUBMSV_Foxmaid24", 8,
+    "Stetsed", 2,
+    "amazingDragonboy", 1
 ]

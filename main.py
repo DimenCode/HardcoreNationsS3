@@ -103,4 +103,4 @@ def v5() :
 # Change to v4() for the list of timezones in lowest to highest value order.
 # Change to V5() for a Search menu by IGN.
 
-v4()
+v2()

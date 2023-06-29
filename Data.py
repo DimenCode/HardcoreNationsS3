@@ -2,7 +2,31 @@
 # using this format : [players'IGN , previous player's timezone, players'IGN , previous player's timezone, ...]
 
 # Timezone is defined on GMT (if it's 3, GMT+3, If it's -5, GMT-5, if it's 0, GMT)
+
+# Writing this on 29/06/2023 : new season and so I saved the old one as "old_data", new one is "data"
+
 data = [
+    "ImBrayyy", -5,
+    "BoboTM", 1,
+    "MatijaZmaj", 1,
+    "Brantonious", -5,
+    "PotaraGoku", 1,
+    "MikeMakesSkins", 1,
+    "DimenSpace", 1,
+    "bambuko19", 1,
+    "Masterak326", 5,
+    "TheDi4mondCat", 1,
+    "QwertyQ1234", 1,
+    "Plazmatron", 1,
+    "meesecakes", 1,
+    "SpaceGoose71", 5,
+    "Mato879", 1,
+    "Sehman", 3,
+    "Cube713", 1,
+    "Lava778", -8
+]
+
+old_data = [
     "BoboTM", 1,
     "Aztrani", 2,
     "DimenSpace", 2,
